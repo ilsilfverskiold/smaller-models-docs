@@ -89,6 +89,7 @@ Encoder models in natural language processing (NLP) are designed primarily to un
 ### Keyword Extraction
 - **Example**: Identifying the main keywords or phrases in a text.
   - [Bert-uncased-keyword-extractor](https://huggingface.co/yanekyuk/bert-uncased-keyword-extractor)
+  - [Bert-keyword-extractor](https://huggingface.co/yanekyuk/bert-keyword-extractor)
 
 ### Language Modeling
 - **Example**: Predicting the likelihood of a sequence of words.
@@ -105,3 +106,5 @@ Encoder models in natural language processing (NLP) are designed primarily to un
 ### ESG Text Mining
 - **Example**: Extracting and processing information from texts related to Environmental, Social, and Governance (ESG) factors in sustainable investing.
   - [ESG-BERT](https://huggingface.co/nbroad/ESG-BERT)
+
+ The list is not exhaustive. Please visit [Hugging Face Model Hub](https://huggingface.co/models) for more.
