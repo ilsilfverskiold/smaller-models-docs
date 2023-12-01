@@ -2,6 +2,8 @@
 
 Seq-to-Seq models in NLP are designed to process an input sequence and generate an output sequence, making them ideal for tasks that require understanding and transformation of text. They are widely used in translation, summarization, and question-answering.
 
+Go [here](https://github.com/ilsilfverskiold/transformers-nlp-docs/blob/main/docs/business-cases/seq-to-seq.md) to get examples for different **business cases** for seq-to-seq models. 
+
 ## Pre-training Objective
 - **Feature Extraction**
   
