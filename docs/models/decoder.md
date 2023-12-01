@@ -58,5 +58,5 @@ Decoder models in natural language processing (NLP) are primarily designed for g
 - **Example**: Assisting in drafting stories, poems, and other creative texts.
 
 
-The list is not exhaustive. Please visit [Hugging Face Model Hub](https://huggingface.co/models) for more.
+The list is not exhaustive. Please visit [Hugging Face Model Hub for GPT-2 based models]([https://huggingface.co/models](https://huggingface.co/models?other=gpt2&sort=downloads)https://huggingface.co/models?other=gpt2&sort=downloads) for more.
   
