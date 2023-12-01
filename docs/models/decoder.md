@@ -43,6 +43,7 @@ Decoder models in natural language processing (NLP) are primarily designed for g
 
 ### Conversational AI
 - **Example**: Building chatbots and conversational agents.
+- [gpt-sw3-126m-instruct (186M)](https://huggingface.co/AI-Sweden-Models/gpt-sw3-126m-instruct?text=hej+hej)
 
 ### Language Translation
 - **Example**: Though primarily for text generation, can be adapted for translating text between languages.
@@ -50,4 +51,6 @@ Decoder models in natural language processing (NLP) are primarily designed for g
 ### Creative Writing
 - **Example**: Assisting in drafting stories, poems, and other creative texts.
 
+
+The list is not exhaustive. Please visit [Hugging Face Model Hub](https://huggingface.co/models) for more.
   
