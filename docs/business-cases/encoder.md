@@ -1,7 +1,9 @@
 # Encoder Models Application Tasks
 
 ## Business Cases (Tasks) for NLP Encoder Models
-These are suggestions only. Many of these cases could be applied in different model architectures as well. In applications you would use many of these to get your desired result. I.e. if you were to embark on analysing competitors, you would first use keyword extraction (which you could potentially do with a BART model using Summarization as well), then NER (Named Entity Recognition) to identify entities to get the correct texts that pertain to your competitor's product and then do sentiment analysis on the correct texts.
+These are suggestions only. 
+
+Many of these cases could be applied in different model architectures as well. In applications you would use many of these to get your desired result. I.e. if you were to embark on analysing competitors, you would first use keyword extraction (which you could potentially do with a BART model using Summarization as well), then NER (Named Entity Recognition) to identify entities to get the correct texts that pertain to your competitor's product and then do sentiment analysis on the correct texts.
 
 ### Text Classification
 - **Customer Feedback Analysis**: Categorizing customer feedback into topics such as service quality, product feedback, or pricing concerns.
