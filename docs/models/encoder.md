@@ -1,5 +1,7 @@
 # Encoder Models and Applications
 
+Encoder models in natural language processing (NLP) are designed primarily to understand and encode information from text. These models are capable of processing and analyzing various forms of language data, transforming raw text into meaningful representations. They excel in tasks that require comprehension of context, such as text classification, named entity recognition, sentiment analysis, and more. 
+
 ## Pre-training Objective
 - **Fill-Mask**: Predicting masked words in a sentence.
 
