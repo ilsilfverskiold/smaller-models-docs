@@ -40,10 +40,16 @@ Decoder models in natural language processing (NLP) are primarily designed for g
 
 ### Text Generation
 - **Examples**: Generating creative content, automated story writing, chatbot responses.
+  - [Prompt Generator: text2image-prompt-generator](https://huggingface.co/succinctly/text2image-prompt-generator?text=landscape+of)
+  - [MagicPrompt-Stable-Diffusion](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion?text=landscape+of)
 
 ### Conversational AI
 - **Example**: Building chatbots and conversational agents.
-- [gpt-sw3-126m-instruct (186M)](https://huggingface.co/AI-Sweden-Models/gpt-sw3-126m-instruct?text=hej+hej)
+  - [chatbot](https://huggingface.co/satvikag/chatbot?text=Hey+my+name+is+Julien%21+How+are+you%3F)
+
+### Language Specific Conversational AI
+- **Example**: Building chatbots and conversational agents in specific languages.
+  - [gpt-sw3-126m-instruct (186M)](https://huggingface.co/AI-Sweden-Models/gpt-sw3-126m-instruct?text=hej+hej)
 
 ### Language Translation
 - **Example**: Though primarily for text generation, can be adapted for translating text between languages.
