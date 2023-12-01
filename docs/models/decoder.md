@@ -57,6 +57,7 @@ Decoder models in natural language processing (NLP) are primarily designed for g
 ### Creative Writing
 - **Example**: Assisting in drafting stories, poems, and other creative texts.
 
+(!) Go [here](https://github.com/ilsilfverskiold/transformers-nlp-docs/blob/main/docs/business-cases/decoder.md) to get examples for different **business cases** for decoder models. 
 
 The list is not exhaustive. Please visit Hugging Face Model Hub fof [GPT-2 based models](https://huggingface.co/models?other=gpt2&sort=downloads) for more.
   
