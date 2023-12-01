@@ -2,6 +2,8 @@
 
 Encoder models in natural language processing (NLP) are designed primarily to understand and encode information from text. These models are capable of processing and analyzing various forms of language data, transforming raw text into meaningful representations. They excel in tasks that require comprehension of context, such as text classification, named entity recognition, sentiment analysis, and more. 
 
+Go [here](https://github.com/ilsilfverskiold/transformers-nlp-docs/blob/main/docs/business-cases/encoder.md) to get examples for different **business cases** for encoder models.
+
 ## Pre-training Objective
 - **Fill-Mask**: Predicting masked words in a sentence.
 
@@ -107,4 +109,4 @@ Encoder models in natural language processing (NLP) are designed primarily to un
 - **Example**: Extracting and processing information from texts related to Environmental, Social, and Governance (ESG) factors in sustainable investing.
   - [ESG-BERT](https://huggingface.co/nbroad/ESG-BERT)
 
- The list is not exhaustive. Please visit [Hugging Face Model Hub](https://huggingface.co/models) for more.
+ The list is not exhaustive. Please visit [Hugging Face Model Hub](https://huggingface.co/models) for more. 
