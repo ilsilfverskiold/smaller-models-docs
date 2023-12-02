@@ -75,10 +75,6 @@ Go [here](https://github.com/ilsilfverskiold/transformers-nlp-docs/blob/main/doc
   - [Distilbert-base-multilingual-cased-sentiments-student](https://huggingface.co/lxyuan/distilbert-base-multilingual-cased-sentiments-student)
   - [Bert-base-go-emotion](https://huggingface.co/bhadresh-savani/bert-base-go-emotion)
 
-### Delicate Text Detection (Domain Specific)
-- **Example**: Identify and classify text based on its level of delicateness or risk.
-  - [Detexd-roberta-base](https://huggingface.co/grammarly/detexd-roberta-base)
-
 ### Part-of-Speech Tagging
 - **Example**: Identifying grammatical parts of speech in text.
 
