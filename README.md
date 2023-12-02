@@ -24,13 +24,19 @@ Cook books for fine-tuning, preprocessing datasets and using the models in an ap
 #### Datasets
 
 ##### Process Custom Dataset
-[process_custom_dataset.ipynb](./cook/datasets/process_custom_dataset.ipynb) - Guide on how to process a custom dataset.
+[process_custom_dataset.ipynb](./cook/datasets/process_custom_dataset.ipynb) - Guide on how to process a custom dataset. 
+
+**Notes:** this will be connecting to a csv file located in your Google Drive. We're importing it and then splitting it up to a training, testing and validation set.
 
 ##### Process Hugging Face Dataset
 [process_huggingface_dataset.ipynb](./cook/datasets/process_huggingface_dataset.ipynb) - Steps to process datasets available on Hugging Face.
 
+**Notes:** this will be importing a dataset located in Hugging Face, then setting a validation set from the training set (as it is missing), doing some slight filtering which is optional.
+
 ##### Push Custom Dataset to Hugging Face
 [push_custom_dataset_huggingface.ipynb](./cook/datasets/push_custom_dataset_huggingface.ipynb) - Instructions on how to push a custom dataset to the Hugging Face hub.
+
+**Notes:** this script imports a csv file from Google Drive, creates a dataset dict and then pushes it to the Hugging Face hub where you can share it with others (or keep it private).
 
 #### Fine-Tune
 Cook books for the entire fine-tune process.
