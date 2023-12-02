@@ -56,13 +56,13 @@ Instructions and examples for using models in an application.
 ### Docs
 Documentation on the different architectures, their base models, tasks and where it makes sense to fine-tune them. Also various examples of fine-tuned models from Hugging Face as examples.
 
-#### Business Cases
-- [Decoder](./docs/business-cases/decoder.md)
-- [Encoder](./docs/business-cases/encoder.md)
-- [Seq-to-Seq](./docs/business-cases/seq-to-seq.md)
-
 #### Models
 Detailed documentation on different transformer model architectures.
 - [Decoder](./docs/models/decoder.md)
+  - Business cases: [Decoder](./docs/business-cases/decoder.md)
 - [Encoder](./docs/models/encoder.md)
+  - [Encoder](./docs/business-cases/encoder.md)
 - [Seq-to-Seq](./docs/models/seq-to-seq.md)
+  - [Seq-to-Seq](./docs/business-cases/seq-to-seq.md)
+
+
