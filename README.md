@@ -16,6 +16,7 @@ This repository is dedicated to providing documentation and practical guides for
     - [Fine Tune Seq-to-Seq with Hugging Face Dataset (file)](./cook/fine-tune/fine_tune_seqtoseq_huggingface_dataset.ipynb)
   - [Using](#using)
     - [Pipeline Testing Models](./pipeline_testing_models.ipynb)
+- [Creating a Dataset](#create-dataset)
 
 ### Docs
 Documentation on the different architectures, their base models, tasks and where it makes sense to fine-tune them. Also various examples of fine-tuned models from Hugging Face as examples.
@@ -65,3 +66,7 @@ Instructions and examples for using models in an application.
   - File: [pipeline_testing_models.ipynb](./pipeline_testing_models.ipynb)
   - Notes: remember to find the models your keen to try on your own too in the Hugging Face Model [hub.](https://huggingface.co/models) 
 
+### Create-Dataset
+Creating a dataset can be tedious business. Use GPT-4 turbo to generate one for you that you can use to fine-tune.
+
+- [Script to generate additional fields with a CSV](https://github.com/ilsilfverskiold/gpt-create-dataset)
