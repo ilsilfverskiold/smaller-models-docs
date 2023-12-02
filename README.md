@@ -12,8 +12,8 @@ This repository is dedicated to providing documentation and practical guides for
     - [Process Hugging Face Dataset (file)](./cook/datasets/process_huggingface_dataset.ipynb)
     - [Push Custom Dataset to Hugging Face (file)](./cook/datasets/push_custom_dataset_huggingface.ipynb)
   - [Fine-Tune](#fine-tune)
-    - [Fine Tune Encoder with Custom Dataset (file)](./cook/fine-tune/fine_tune_encoder_custom_dataset.ipynb)
-    - [Fine Tune Encoder with Hugging Face Dataset (file)](./cook/fine-tune/fine_tune_encoder_huggingface_dataset.ipynb)
+    - [Fine Tune Seq-to-Seq with Custom Dataset (file)](./cook/fine-tune/fine_tune_seqtoseq_custom_dataset.ipynb)
+    - [Fine Tune Seq-to-Seq with Hugging Face Dataset (file)](./cook/fine-tune/fine_tune_seqtoseq_huggingface_dataset.ipynb)
   - [Using](#using)
     - [Pipeline Testing Models](./pipeline_testing_models.ipynb)
 
@@ -48,13 +48,13 @@ Cook books for fine-tuning, preprocessing datasets and using the models in an ap
 
 #### Fine-Tune
 Cook books for the entire fine-tune process.
-- Fine Tune Encoder Model with Custom Dataset
-  - Step by step script for fine-tuning encoder models using custom datasets.
-  - File: [fine_tune_encoder_custom_dataset.ipynb](./cook/fine-tune/fine_tune_encoder_custom_dataset.ipynb)
+- Fine Tune Seq-to-Seq Model with Custom Dataset
+  - Step by step script for fine-tuning Seq-to-Seq models using custom datasets.
+  - File: [fine_tune_encoder_custom_dataset.ipynb](./cook/fine-tune/fine_tune_seqtoseq_custom_dataset.ipynb)
   - Notes: dataset is smaller (8,500 rows) will be imported from Google Drive
-- Fine Tune Encoder with Hugging Face Dataset
-  - Steps to fine-tune encoder models using datasets from Hugging Face.
-  - File: [fine_tune_encoder_huggingface_dataset.ipynb](./cook/fine-tune/fine_tune_encoder_huggingface_dataset.ipynb)
+- Fine Tune Seq-to-Seq with Hugging Face Dataset
+  - Steps to fine-tune Seq-to-Seq models using datasets from Hugging Face.
+  - File: [fine_tune_encoder_huggingface_dataset.ipynb](./cook/fine-tune/fine_tune_seqtoseq_huggingface_dataset.ipynb)
   - Notes: dataset is larger, you may import the dataset your interested from the Hugging Face hub
 
 #### Using
