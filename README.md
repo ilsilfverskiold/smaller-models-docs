@@ -2,7 +2,7 @@
 
 Documentation and practical guides for working with and fine-tuning smaller open-source transformer models using Hugging Face's transformers library. Documentation on models include base-models, sizes, tasks and usual business use cases. 
 
-**Note:** At the moment there are only cook books in this repo for fine-tuning encoder and seq-to-seq models. 
+**Note:** At the moment there are only cook books in this repo for fine-tuning **encoder (BERT, distilBERT etc)** and **seq-to-seq (BART, T5)** models. 
 
 ## Intro
 
