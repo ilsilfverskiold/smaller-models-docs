@@ -1,6 +1,6 @@
 # Transformers-NLP-Docs
 
-Documentation and practical guides for working with and fine-tuning smaller open-source transformer models using the Hugging Face platform and the transformers library. Documentation on models include base-models, sizes, tasks and usual business use cases. 
+Documentation and practical guides for working with and fine-tuning smaller open-source transformer models using Hugging Face's transformers library. Documentation on models include base-models, sizes, tasks and usual business use cases. 
 
 **Note:** At the moment there are only cook books in this repo for fine-tuning encoder and seq-to-seq models. 
 
