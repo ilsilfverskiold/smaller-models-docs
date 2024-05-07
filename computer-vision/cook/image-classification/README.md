@@ -9,6 +9,6 @@ This repository is currently a work in progress and aims to provide cook books o
 ## Fine-Tune
 
 - **ConvNEXT**: [Torch Fine-Tuning Cook Book](./fine-tune/ConvNeXT_torch.ipynb)
-- **ResNet**: [Trainer Fine-Tuning Cook Bokk](./fine-tune/Resnet_HuggingFace_Trainer.ipynb)
+- **(CNN Models) ResNet**: [Trainer Fine-Tuning Cook Bokk](./fine-tune/Resnet_HuggingFace_Trainer.ipynb)
 - **ViT/Swin**: [Trainer Fine-Tuning Cook Book](./fine-tune/ViT_Huggingface_Trainer.ipynb)
 - **ViT/Swin**: [Custom Trainer Fine-Tuning Cook Book - Weight Imbalances](./fine-tune/ViT_Huggingface_Custom_Trainer.ipynb)
